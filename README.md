@@ -1,1 +1,2 @@
 # odin-recipes
+This project aims to create a recipes website according to the instructions in the Project: Recipes in The Odin Project. Demonstrating my knowledge in creating a basic boilerplate and using the basic tags of HTML.
